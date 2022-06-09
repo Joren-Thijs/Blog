@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<RootNamespace>Blog.Models</RootNamespace>
+		<AssemblyName>Blog.Models</AssemblyName>
+	</PropertyGroup>
+
+</Project>
